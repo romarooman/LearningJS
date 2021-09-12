@@ -45,7 +45,3 @@ addBtn.addEventListener('click', add);
 subtractBtn.addEventListener('click', substuc);
 multiplyBtn.addEventListener('click', multip);
 divideBtn.addEventListener('click', divide);
-
-let r = 3;
-alert(++r);
-alert(`after ${r}`);
